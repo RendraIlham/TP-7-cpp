@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1761492670 source:c:\users\rend1\kuliah\smt 3\struktur data\praktikum\tp_mod_7-stack\main.cpp
+	"stack.h"
+	<iostream>
+
+1761492572 c:\users\rend1\kuliah\smt 3\struktur data\praktikum\tp_mod_7-stack\stack.h
+	<iostream>
+
+1761492572 source:c:\users\rend1\kuliah\smt 3\struktur data\praktikum\tp_mod_7-stack\stack.cpp
+	"stack.h"
+
